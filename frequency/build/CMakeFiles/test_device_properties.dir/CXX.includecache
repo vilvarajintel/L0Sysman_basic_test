@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/u117790/Sysman_tests/frequency/main.cpp
+level_zero/zes_api.h
+-
+algorithm
+-
+fstream
+-
+getopt.h
+-
+iostream
+-
+map
+-
+string.h
+-
+sys/stat.h
+-
+unistd.h
+-
+vector
+-
+
