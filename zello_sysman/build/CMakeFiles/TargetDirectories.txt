@@ -1,3 +1,0 @@
-/home/u117790/Sysman_tests/zello_sysman/build/CMakeFiles/rebuild_cache.dir
-/home/u117790/Sysman_tests/zello_sysman/build/CMakeFiles/edit_cache.dir
-/home/u117790/Sysman_tests/zello_sysman/build/CMakeFiles/test_device_properties.dir

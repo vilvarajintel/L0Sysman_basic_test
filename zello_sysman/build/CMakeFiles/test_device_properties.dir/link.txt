@@ -1,1 +1,0 @@
-/usr/bin/c++     CMakeFiles/test_device_properties.dir/main.cpp.o  -o test_device_properties  -lze_loader 
